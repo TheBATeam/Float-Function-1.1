@@ -1,0 +1,20 @@
+
+ Hey, hello there...i'm kvc.
+ This is float values definition in batch by algorithm created by kvc... v.1.1
+ You can use this float function in cmd console or in any of your batch program.
+
+ Syntax :
+ Float <value_1> [operation] <value_2> [Variable]
+
+ operations can be : + => For adding both values
+                   : - => For subtracting both values
+                   : / => For Dividing both values
+                   : * => For Multiplying both values
+
+ E.g. : Float 355 / 113 result	[for calculating original value of pi]
+	Float 3.134 + -4.332 result		[Random calculation]
+	Float 4.66 - 0.04 result		[Random calculation]
+	Float 0.02 * 0.02 			[Random calculation]
+ The output of the fuction will be saved to variable named 'result', If No
+ variable is defined then it will simply show output on the cmd cosole...
+ as in Ver.1.0 of float function.
