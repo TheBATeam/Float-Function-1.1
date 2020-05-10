@@ -1,5 +1,5 @@
 # Float-Function-1.1
-In this function we’ve defined the float value calculations in Batch using Float Function , with some mathematical tricks and proper algorithm of code . **The version 1.0** of this **float function** by kvc also has some shortcomings or flaws So, we launched for 1.1 of the Float function.
+In this function we’ve defined the float value calculations in Batch using Float Function, with some mathematical tricks and proper algorithm of code. **The version 1.0** of this **float function** by kvc also has some shortcomings or flaws. So, we launched for 1.1 of the Float function.
 
 ![](https://i2.wp.com/www.thebateam.org/wp-content/uploads/2020/03/Float-1.1.gif?fit=819%2C505&ssl=1)
 
